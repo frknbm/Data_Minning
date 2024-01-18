@@ -33,9 +33,9 @@ The main objectives of this project  include:
 
 ## How to Run the Project
 
-You can run the project by cloning it to your local machine or downloading it from GitHub. Don't forget to install the required dependencies to initiate data mining experiments.
+- You can run the project by cloning it to your local machine or downloading it from GitHub. Don't forget to install the required dependencies to initiate data mining experiments.
 
-git clone https: //github.com/your-username/your-project.git
-cd your-project
-pip install -r requirements.txt
-python main.py
+- git clone https: //github.com/your-username/your-project.git
+- cd your-project
+- pip install -r requirements.txt
+- python main.py
