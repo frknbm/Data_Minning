@@ -22,11 +22,20 @@ The main objectives of this project  include:
 2. Examining the relationships between math, reading, and writing exam scores.
 3. Predicting student achievements using data mining algorithms.
 
+## Used Libraries and Technologies
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Data Mining Algorithms (Specify the algorithms used, e.g., Decision Trees, Naive Bayes)
+Python (Specify the version, e.g., Python 3.8)
+GitHub (for version control)
+
 ## How to Run the Project
 
 You can run the project by cloning it to your local machine or downloading it from GitHub. Don't forget to install the required dependencies to initiate data mining experiments.
 
-git clone https://github.com/your-username/your-project.git
+git clone https: //github.com/your-username/your-project.git
 cd your-project
 pip install -r requirements.txt
 python main.py
