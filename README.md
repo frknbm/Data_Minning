@@ -23,13 +23,13 @@ The main objectives of this project  include:
 3. Predicting student achievements using data mining algorithms.
 
 ## Used Libraries and Technologies
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Data Mining Algorithms (Specify the algorithms used, e.g., Decision Trees, Naive Bayes)
-Python (Specify the version, e.g., Python 3.8)
-GitHub (for version control)
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Data Mining Algorithms (Specify the algorithms used, e.g., Decision Trees, Naive Bayes)
+- Python (Specify the version, e.g., Python 3.8)
+- GitHub (for version control)
 
 ## How to Run the Project
 
